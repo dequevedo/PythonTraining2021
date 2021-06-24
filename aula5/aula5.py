@@ -1,0 +1,6 @@
+print(10/3)
+print(10//3)
+print(5.8/2)
+print(5.8//2)
+print(2**2)
+print(3**2)
